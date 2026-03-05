@@ -17,3 +17,14 @@ For developers who want to customize the app, the instructions have been listed 
 
 #### Step 4: Run `app.py` and click the link [http://127.0.0.1:8000](http://127.0.0.1:8000)
 The web GUI will show on the browser and is ready for use.
+
+#### Module 1: Model Generation and Evaluation
+![Module 1](https://github.com/Linhkust/Concrete_XAI/blob/main/web%20gui%20screenshots/1.png)
+
+#### Module 2: Explainable Artificial Intelligence
+![Module 2: PFI](https://github.com/Linhkust/Concrete_XAI/blob/main/web%20gui%20screenshots/2-1.png)
+![Module 2: SHAP Summary](https://github.com/Linhkust/Concrete_XAI/blob/main/web%20gui%20screenshots/2-2.png)
+![Module 2: PDP and SHAP dependence plot](https://github.com/Linhkust/Concrete_XAI/blob/main/web%20gui%20screenshots/2-3.png)
+
+#### Module 3: Large language Model Analysis
+![Module 3](https://github.com/Linhkust/Concrete_XAI/blob/main/web%20gui%20screenshots/3.png)
